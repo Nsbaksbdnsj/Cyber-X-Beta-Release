@@ -36,25 +36,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['918590745203'] //ur owner number
+global.vcardowner = ['94766195571'] //ur owner number
 global.ownername = "ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur owner name
 global.ytname = "YT:ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur yt chanel name
 global.socialm = "GitHub: cybertrongodzzz" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['918590745203']
-global.ownertag = '918590745203' //ur tag number
-global.botnumber = '918590745203' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94766195571']
+global.ownertag = '94766195571' //ur tag number
+global.botnumber = '94766195571' //Add your Bot Number For Log
+global.botname = 'CYBER-X ULTIMATE EDITION' //ur bot name
 global.ig = "https://youtube.com/@user-nb8ky9yo8j" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/@user-nb8ky9yo8j" //script link
 global.linkz = 'https://youtube.com/@user-nb8ky9yo8j'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cybertron-X Test Bot" //ur sticker watermark packname
+global.packname = "Cybertron-X Bot" //ur sticker watermark packname
 global.author = "ᑎEᒪᐯIᑎ" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "® ᴄʏʙᴇʀ-x ULTIMATE ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
